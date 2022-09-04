@@ -14,6 +14,7 @@ def fibonacci_print(terms):
         fibonacci_array.append(fibonacci(i))
     print(fibonacci_array)
 
+
 if __name__ == '__main__':
     num1 = 12
     fibonacci_print(num1)
